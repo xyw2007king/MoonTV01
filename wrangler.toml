@@ -1,0 +1,8 @@
+name = "moontv01"
+compatibility_date = "2025-05-15"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "moontv01"
+database_id = "29c773a2-7be6-485c-b284-6f32f6fc275e"
+preview_database_id = "29c773a2-7be6-485c-b284-6f32f6fc275e"
