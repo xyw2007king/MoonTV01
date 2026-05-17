@@ -3,6 +3,7 @@
 
 const nextConfig = {
   output: 'standalone',
+  experimental: { runtimeEnv: ["DB","USERNAME","PASSWORD","NEXT_PUBLIC_STORAGE_TYPE"] },
   eslint: {
     dirs: ['src'],
     ignoreDuringBuilds: true,
